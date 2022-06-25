@@ -1,6 +1,6 @@
-## **Laundrover** is a laundry management system.
+## **Laundrover** is a Laundry Management System.
 
-# How to run the code on your local :
+## Steps to run the code on your local :
 1. Download and install xampp
 2. Move the code folder to xampp/htdocs
 3. Start Apache and MySQL Server from Xampp Control Panel
@@ -11,9 +11,23 @@
 8. Go to localhost/laundry to run the website on localhost
 9. To login use: username=admin, password=admin123
 
-# Screenshots from the app : 
+## Features :
+1. Add laundry
+2. Update status of laundry - washing, in queue, etc.
+3. Update laundry details
+4. Add laundry categories
+5. Update laundry categories
+6. Add customers
+7. Update customer details
+8. Manage admins
+
+## Screenshots from the app : 
 ![](screenshots/1login.png)
+
 ![](screenshots/2home.png)
+
 ![](screenshots/3laundry.png)
+
 ![](screenshots/6records.png)
+
 ![](screenshots/7admin.png)
