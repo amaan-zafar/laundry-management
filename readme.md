@@ -1,4 +1,4 @@
-**Laundrover** is a laundry management system.
+## **Laundrover** is a laundry management system.
 
 # How to run the code on your local :
 1. Download and install xampp
@@ -13,3 +13,7 @@
 
 # Screenshots from the app : 
 ![](screenshots/1login.png)
+![](screenshots/2home.png)
+![](screenshots/3laundry.png)
+![](screenshots/6records.png)
+![](screenshots/7admin.png)
