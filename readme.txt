@@ -1,4 +1,6 @@
-Steps to run the code:
+**Laundrover** is a laundry management system.
+
+# How to run the code on your local :
 1. Download and install xampp
 2. Move the code folder to xampp/htdocs
 3. Start Apache and MySQL Server from Xampp Control Panel
@@ -8,3 +10,6 @@ Steps to run the code:
 7. Import laundry.sql from the code folder
 8. Go to localhost/laundry to run the website on localhost
 9. To login use: username=admin, password=admin123
+
+# Screenshots from the app : 
+![](screenshots/1login.png)
